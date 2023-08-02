@@ -280,7 +280,7 @@ function GSMValidation () {
 }
 
 function fillDictionary(language) {
-    const url = "http://sharepoint2016:99/Site%20Assets/dictionary.txt";
+    const url = "https://cdn.jsdelivr.net/gh/Nourjawhari/nama1@main/dictionary.txt";
 
     fetch(url)
         .then(response => {
