@@ -1,0 +1,310 @@
+[
+    {
+        "en-US": "Electricity Service",
+        "ar-SA": "توزيع الكهرباء"
+    },
+    {
+        "en-US": "Application Type",
+        "ar-SA": "نوع التطبيق"
+    },
+    {
+        "en-US": "New Connection",
+        "ar-SA": "اتصال جديد"
+    },
+    {
+        "en-US": "Temporary Connection",
+        "ar-SA": "اتصال مؤقت"
+    },
+    {
+        "en-US": "Modification/ Additional Load",
+        "ar-SA": "تعديل / إضافة حمولة"
+    },
+    {
+        "en-US": "Customer Details",
+        "ar-SA": "تفاصيل العميل"
+    },
+    {
+        "en-US": "Customer Name (English)",
+        "ar-SA": "اسم العميل (الإنجليزية)"
+    },
+    {
+        "en-US": "Customer Name (Arabic)",
+        "ar-SA": "اسم العميل (العربية)"
+    },
+    {
+        "en-US": "ID Card Number/CR",
+        "ar-SA": "رقم بطاقة الهوية / السجل التجاري"
+    },
+    {
+        "en-US": "Customer Nationality",
+        "ar-SA": "جنسية العميل"
+    },
+    {
+        "en-US": "Address",
+        "ar-SA": "العنوان"
+    },
+    {
+        "en-US": "City or Rural",
+        "ar-SA": "مدينة أو ريف"
+    },
+    {
+        "en-US": "City",
+        "ar-SA": "مدينة"
+    },
+    {
+        "en-US": "Rural",
+        "ar-SA": "ريف"
+    },
+    {
+        "en-US": "GSM (Local)",
+        "ar-SA": "الهاتف المحمول (المحلي)"
+    },
+    {
+        "en-US": "GSM International",
+        "ar-SA": "الهاتف المحمول الدولي"
+    },
+    {
+        "en-US": "Phone Number",
+        "ar-SA": "رقم الهاتف"
+    },
+    {
+        "en-US": "Receive Green Bill",
+        "ar-SA": "استلام الفاتورة الخضراء"
+    },
+    {
+        "en-US": "SMS",
+        "ar-SA": "رسالة نصية"
+    },
+    {
+        "en-US": "Email",
+        "ar-SA": "بريد إلكتروني"
+    },
+    {
+        "en-US": "Details of Application",
+        "ar-SA": "تفاصيل الطلب"
+    },
+    {
+        "en-US": "Customer Class",
+        "ar-SA": "فئة العميل"
+    },
+    {
+        "en-US": "Private",
+        "ar-SA": "خاص"
+    },
+    {
+        "en-US": "Government",
+        "ar-SA": "حكومي"
+    },
+    {
+        "en-US": "Private Class",
+        "ar-SA": "فئة خاصة"
+    },
+    {
+        "en-US": "Individual",
+        "ar-SA": "فردي"
+    },
+    {
+        "en-US": "Company",
+        "ar-SA": "شركة"
+    },
+    {
+        "en-US": "Individual Class",
+        "ar-SA": "فئة فردية"
+    },
+    {
+        "en-US": "Inheritors",
+        "ar-SA": "ورثة"
+    },
+    {
+        "en-US": "Owner",
+        "ar-SA": "مالك"
+    },
+    {
+        "en-US": "Multiple Owners",
+        "ar-SA": "مالكين متعددين"
+    },
+    {
+        "en-US": "Customer Type",
+        "ar-SA": "نوع العميل"
+    },
+    {
+        "en-US": "Prepaid Customer",
+        "ar-SA": "عميل مسبق الدفع"
+    },
+    {
+        "en-US": "Postpaid Customer",
+        "ar-SA": "عميل مدفوع في وقت لاحق"
+    },
+    {
+        "en-US": "CRT Customer",
+        "ar-SA": "عميل CRT"
+    },
+    {
+        "en-US": "Both Prepaid and Postpaid",
+        "ar-SA": "عميل مدفوع مسبقاً ومدفوع لاحقًا"
+    },
+    {
+        "en-US": "Premise Type",
+        "ar-SA": "نوع المبنى"
+    },
+    {
+        "en-US": "Government",
+        "ar-SA": "حكومي"
+    },
+    {
+        "en-US": "Residential",
+        "ar-SA": "سكني"
+    },
+    {
+        "en-US": "Tourism",
+        "ar-SA": "سياحي"
+    },
+    {
+        "en-US": "Industrial",
+        "ar-SA": "صناعي"
+    },
+    {
+        "en-US": "Commercial",
+        "ar-SA": "تجاري"
+    },
+    {
+        "en-US": "Agriculture and Fisheries",
+        "ar-SA": "زراعة وصيد الأسماك"
+    },
+    {
+        "en-US": "Mixed Use",
+        "ar-SA": "مستخدم مختلط"
+    },
+    {
+        "en-US": "Total Requested Load",
+        "ar-SA": "إجمالي الحمولة المطلوبة"
+    },
+    {
+        "en-US": "Expected Date of Connection",
+        "ar-SA": "تاريخ التوصيل المتوقع"
+    },
+    {
+        "en-US": "Temporary Connection From",
+        "ar-SA": "اتصال مؤقت من"
+    },
+    {
+        "en-US": "Duration of Temporary Connection (in months)",
+        "ar-SA": "مدة الاتصال المؤقت (بالأشهر)"
+    },
+    {
+        "en-US": "Temporary Connection To",
+        "ar-SA": "اتصال مؤقت إلى"
+    },
+    {
+        "en-US": "Plot Number",
+        "ar-SA": "رقم القطعة"
+    },
+    {
+        "en-US": "Block Number",
+        "ar-SA": "رقم المجموعة"
+    },
+    {
+        "en-US": "Number of requested Single Phase Customer(A)",
+        "ar-SA": "عدد عملاء الطور الفردي المطلوب (أ)"
+    },
+    {
+        "en-US": "Number of requested Three Phase Meters(B)",
+        "ar-SA": "عدد العدادات الثلاثية المطلوبة (ب)"
+    },
+    {
+        "en-US": "Number of requested CT Meters(C)",
+        "ar-SA": "عدد أجهزة قياس CT المطلوبة (C)"
+    },
+    {
+        "en-US": "Total Requested Meters",
+        "ar-SA": "إجمالي العدادات المطلوبة"
+    },
+    {
+        "en-US": "Others",
+        "ar-SA": "آخرين"
+    },
+    {
+        "en-US": "Contractor Name",
+        "ar-SA": "اسم المقاول"
+    },
+    {
+        "en-US": "Attachments",
+        "ar-SA": "المرفقات"
+    },
+    {
+        "en-US": "Owner",
+        "ar-SA": "المالك"
+    },
+    {
+        "en-US": "Copy of the Mulkiya",
+        "ar-SA": "نسخة من سند الملكية"
+    },
+    {
+        "en-US": "Copy of the Krooki",
+        "ar-SA": "نسخة من الرسم المساحي"
+    },
+    {
+        "en-US": "Copy of owner ID Card",
+        "ar-SA": "نسخة من البطاقة الشخصية للمالك"
+    },
+    {
+        "en-US": "NOC from Municipality",
+        "ar-SA": "رسالة البلدية عدم الممانعة من إدخال الكهرباء"
+    },
+    {
+        "en-US": "Copy of Electrician License",
+        "ar-SA": "نسخة من رخصة الكهربائي"
+    },
+    {
+        "en-US": "Inheritors ",
+        "ar-SA": "الورثة"
+    },
+    {
+        "en-US": "Copy of Legal notification ",
+        "ar-SA": "نسخة من الاعلام الشرعي"
+    },
+    {
+        "en-US": "Formal letter from the company",
+        "ar-SA": "رسالة رسمية من الشركة المتقدمة بالطلب"
+    },
+    {
+        "en-US": "Copy of commercial Reference",
+        "ar-SA": "نسخة من السجل التجاري"
+    },
+    {
+        "en-US": "Formal letter from the Government entity",
+        "ar-SA": "رسالة رسمية من الجهة الحكومية المتقدمة بالطلب"
+    },
+    {
+        "en-US": "Click to upload",
+        "ar-SA": "انقر للتحميل"
+    },
+    {
+        "en-US": "Load Details",
+        "ar-SA": "تفاصيل التحميل"
+    },
+    {
+        "en-US": "Submit",
+        "ar-SA": "قدِّم"
+    },
+     {
+        "en-US": "You should enter at least one of the numbers asked for above.",
+        "ar-SA": ".يجب عليك إدخال واحد على الأقل من الأرقام المطلوبة أعلاه"
+    },
+    {
+        "en-US": "Only pdf or png file must be uploaded.",
+        "ar-SA": ".فقط png أو pdf يجب تحميل ملف"
+    },
+    {
+        "en-US": "The uploaded file will be less than 2Mb in size.",
+        "ar-SA": ".يجب أن يكون حجم الملف الذي يتم تحميله أقل من 2 ميغا بايت"
+    },
+    {
+        "en-US": "Please enter a valid international GSM",
+        "ar-SA": "الرجاء إدخال رقم دولي صالح"
+    },
+    {
+        "en-US": "Please upload a PDF or PNG file.",
+        "ar-SA": ".PNG أو PDF الرجاء تحميل ملف"
+    }
+]
